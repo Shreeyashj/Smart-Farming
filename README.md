@@ -1,10 +1,10 @@
 # Smart-Farming
 
-# Smart Farming - Samart Farming Project
+# Smart Farming - Smart Farming Project
 
 ## Overview
 
-Samart Farming is an innovative IoT-based smart farming project designed to revolutionize agricultural practices. This project leverages dedicated 4G connectivity to create a sensor-based farm automation system, optimizing farming processes through data-driven insights and automation. The goal is to enhance efficiency and productivity while minimizing reliance on traditional Wi-Fi connections.
+Smart Farming is an innovative IoT-based smart farming project designed to revolutionize agricultural practices. This project leverages dedicated 4G connectivity to create a sensor-based farm automation system, optimizing farming processes through data-driven insights and automation. The goal is to enhance efficiency and productivity while minimizing reliance on traditional Wi-Fi connections.
 
 ## Features
 
